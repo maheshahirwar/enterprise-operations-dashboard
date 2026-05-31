@@ -25,7 +25,7 @@ This project provides a centralized interface for monitoring enterprise operatio
 * ReactJS
 * TypeScript
 * Redux
-* Material UI
+* Bootstrap
 
 ### Backend
 
